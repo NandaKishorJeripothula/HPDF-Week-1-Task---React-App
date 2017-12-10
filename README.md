@@ -6,8 +6,8 @@ As the Task of week 1, I have implemented the template and functionality of the 
 * [Introduction](#introduction)
 * [Implementation Detials](#implementation-details)
 * [Installation](#installation)
-* [Cloning and Running this Application](#cloning-running-this-application)
-* [Tasks Achieved & Note ](#task-achieved-&-note)
+* [Cloning and Running this Application](#cloning-and-running-this-application)
+* [Tasks Achieved and Note ](#task-achieved-and-note)
 
 ## Introduction
 One of the many great parts of React is how it makes you think about apps as you build them.React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram. 
@@ -152,7 +152,7 @@ react-app-created
 npm run 
 ```
 
-## Tasks Achieved & Note 
+## Task Achieved and Note 
 
 - Implementation of the look and feel
 - The page implements all the components that are visible in links mentioned in TaskDocumentation of HPDF
