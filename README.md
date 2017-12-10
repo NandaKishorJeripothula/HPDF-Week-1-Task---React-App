@@ -16,9 +16,11 @@
 
 ### Here are some of the **screenshots** of the live application
 ### _Home | Landing Page_
-![Alt text](/PreviewOne.jpg?raw=true "Landing Page | Home Page")
+[pic-1]:https://github.com/NandaKishorJeripothula/HPDF-Week-1-Task---React-App/blob/master/PreviewOne.JPG
+[pic-2]:https://github.com/NandaKishorJeripothula/HPDF-Week-1-Task---React-App/blob/master/PreviewTwo.JPG
+![Alt text][pic-1]
 ### _Search Results_
-![Alt text](/PreviewTwo.jpg?raw=true "Landing Page | Home Page")
+![Alt text][pic-2]
 
 ## Implementation Detials
  Following are the technologies used to develop the app
