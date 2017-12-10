@@ -104,11 +104,11 @@ create-react-app react-name
 #### For the cloning of this application, using git shell/git bash, run 
 CLONE OVER HTTPS:
 ```
-git clone https://username@bitbucket.org/teamsinspace/documentation-tests.git
+git clone https://github.com/NandaKishorJeripothula/HPDF-Week-1-Task---React-App.git
 ```
 CLONE OVER SSH
 ```
-git clone git@bitbucket.org:teamsinspace/documentation-tests.git
+git clone git@github.com:NandaKishorJeripothula/HPDF-Week-1-Task---React-App.git
 ```
 >Important : From your created app and cloned app append the  created app directory structure with cloned app directory as follows.
 ```
