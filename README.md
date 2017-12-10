@@ -1,6 +1,6 @@
 # HPDF Week 1 Task React App
 ## App implements the Landing Page and Search Results of Twitter Functionality 
-### As the Task of week 1, I have implemented the template and functionality of the Twitter as mentioned in the Task Documentation.
+As the Task of week 1, I have implemented the template and functionality of the Twitter as mentioned in the Task Documentation.
 
 ## Sections 
 * [Introduction](#introduction)
@@ -10,9 +10,9 @@
 * [Tasks Achieved & Note ](#task-achieved-&-note)
 
 ## Introduction
-### One of the many great parts of React is how it makes you think about apps as you build them.React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram. 
+One of the many great parts of React is how it makes you think about apps as you build them.React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram. 
 
-### Here in this first week we made a **Basic** *React App* which implements the *Look and Feel* the **_Twitter_** 
+Here in this first week we made a **Basic** *React App* which implements the *Look and Feel* the **_Twitter_** 
 
 ### Here are some of the **screenshots** of the live application
 ### _Home | Landing Page_
@@ -165,4 +165,4 @@ npm run
 >Suggestions are welcome at _j.kishor.bd@gmail.com_ or at Twitter @NanduKishorNand(https://twitter.com/NanduKishorNand). Thank You. 
 
 
-## Made in :heart: with React 
+## Made in    :heart:     with React 
