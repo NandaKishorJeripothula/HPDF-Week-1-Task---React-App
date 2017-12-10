@@ -22,7 +22,7 @@ Here in this first week we made a **Basic React App** which implements the *Look
 ### _Search Results_
 ![Alt text][pic-2]
 
-## Implementation Detials
+## Implementation Details
  Following are the technologies used to develop the app
 ### [React](https://reactjs.org) A JavaScript library for building user interfaces
 ### [Material-UI v1.0](https://material-ui-next.com) React components that implement Google's Material Design.
