@@ -12,7 +12,7 @@ As the Task of week 1, I have implemented the template and functionality of the 
 ## Introduction
 One of the many great parts of React is how it makes you think about apps as you build them.React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram. 
 
-Here in this first week we made a **Basic** *React App* which implements the *Look and Feel* the **_Twitter_** 
+Here in this first week we made a **Basic React App** which implements the *Look and Feel* of the **Twitter** 
 
 ### Here are some of the **screenshots** of the live application
 ### _Home | Landing Page_
