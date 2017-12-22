@@ -156,7 +156,7 @@ npm run
 
 - Implementation of the look and feel
 - The page implements all the components that are visible in links mentioned in TaskDocumentation of HPDF
-- Upon the search, a new container will popop below the nav bar ( inbetween the AppBar & PageBody) and renders the search page elements same as Twitter search Results
+- Upon the search, a new container will popop below the nav bar ( inbetween the AppBar & PageBody) (The search button will produce the results...and postsearch icon i.e, X icon will rollback the search container ) and renders the search page elements same as Twitter search Results
 - Used advanced CSS3 stylings and gradient for aweosome look and feel
 - Non-Resposive
 >This application in **NOT RESPONSIVE** and _BEST VIEWED in Google Chrome v50+ & Firefox 48+_ with minimum _1024 × 768 pixels_

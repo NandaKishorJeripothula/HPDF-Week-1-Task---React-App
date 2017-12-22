@@ -4,6 +4,7 @@ import 'typeface-roboto';
 import './App.css';
 import AppBarNavB from './components/AppBarNavB';
 import PageBody from './components/PageBody';
+import Snackbar2 from './components/Snackbar2';
 
 
 class App extends Component {
@@ -20,6 +21,7 @@ class App extends Component {
       </div>
       */
       <div>
+        <Snackbar2/>
        <AppBarNavB/>  
         <PageBody/>       
       </div>

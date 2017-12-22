@@ -1,26 +1,28 @@
 # HPDF Week 1 Task React App
 ## App implements the Landing Page and Search Results of Twitter Functionality 
-### As the Task of week 1, I have implemented the template and functionality of the Twitter as mentioned in the Task Documentation.
+As the Task of week 1, I have implemented the template and functionality of the Twitter as mentioned in the Task Documentation.
 
 ## Sections 
 * [Introduction](#introduction)
 * [Implementation Detials](#implementation-details)
 * [Installation](#installation)
-* [Cloning and Running this Application](#cloning-running-this-application)
-* [Tasks Achieved & Note ](#task-achieved-&-note)
+* [Cloning and Running this Application](#cloning-and-running-this-application)
+* [Tasks Achieved and Note ](#task-achieved-and-note)
 
 ## Introduction
-### One of the many great parts of React is how it makes you think about apps as you build them.React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram. 
+One of the many great parts of React is how it makes you think about apps as you build them.React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram. 
 
-### Here in this first week we made a **Basic** *React App* which implements the *Look and Feel* the **_Twitter_** 
+Here in this first week we made a **Basic React App** which implements the *Look and Feel* of the **Twitter** 
 
 ### Here are some of the **screenshots** of the live application
 ### _Home | Landing Page_
-![Alt text](/PreviewOne.jpg?raw=true "Landing Page | Home Page")
+[pic-1]:https://github.com/NandaKishorJeripothula/HPDF-Week-1-Task---React-App/blob/master/PreviewOne.JPG
+[pic-2]:https://github.com/NandaKishorJeripothula/HPDF-Week-1-Task---React-App/blob/master/PreviewTwo.JPG
+![Alt text][pic-1]
 ### _Search Results_
-![Alt text](/PreviewTwo.jpg?raw=true "Landing Page | Home Page")
+![Alt text][pic-2]
 
-## Implementation Detials
+## Implementation Details
  Following are the technologies used to develop the app
 ### [React](https://reactjs.org) A JavaScript library for building user interfaces
 ### [Material-UI v1.0](https://material-ui-next.com) React components that implement Google's Material Design.
@@ -102,11 +104,11 @@ create-react-app react-name
 #### For the cloning of this application, using git shell/git bash, run 
 CLONE OVER HTTPS:
 ```
-git clone https://username@bitbucket.org/teamsinspace/documentation-tests.git
+git clone https://github.com/NandaKishorJeripothula/HPDF-Week-1-Task---React-App.git
 ```
 CLONE OVER SSH
 ```
-git clone git@bitbucket.org:teamsinspace/documentation-tests.git
+git clone git@github.com:NandaKishorJeripothula/HPDF-Week-1-Task---React-App.git
 ```
 >Important : From your created app and cloned app append the  created app directory structure with cloned app directory as follows.
 ```
@@ -150,11 +152,11 @@ react-app-created
 npm run 
 ```
 
-## Tasks Achieved & Note 
+## Task Achieved and Note 
 
 - Implementation of the look and feel
 - The page implements all the components that are visible in links mentioned in TaskDocumentation of HPDF
-- Upon the search, a new container will popop below the nav bar ( inbetween the AppBar & PageBody) and renders the search page elements same as Twitter search Results
+- Upon the search, a new container will popop below the nav bar ( inbetween the AppBar & PageBody) (The search button will produce the results...and postsearch icon i.e, X icon will rollback the search container ) and renders the search page elements same as Twitter search Results
 - Used advanced CSS3 stylings and gradient for aweosome look and feel
 - Non-Resposive
 >This application in **NOT RESPONSIVE** and _BEST VIEWED in Google Chrome v50+ & Firefox 48+_ with minimum _1024 × 768 pixels_
@@ -163,4 +165,4 @@ npm run
 >Suggestions are welcome at _j.kishor.bd@gmail.com_ or at Twitter @NanduKishorNand(https://twitter.com/NanduKishorNand). Thank You. 
 
 
-## Made in :heart: with React 
+## Made in    :heart:     with React 
